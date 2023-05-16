@@ -1,4 +1,6 @@
 # MedBioinfo 2023 Applied Bioinformatics
+Student: Lennart H
+
 ## repo for re-analysis
 
 ### Data source
