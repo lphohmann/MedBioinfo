@@ -1,0 +1,3 @@
+@HD	VN:1.5	SO:unsorted	GO:query
+@SQ	SN:NC_045512.2	LN:29903
+@PG	ID:bowtie2	PN:bowtie2	VN:2.5.1	CL:"/shared/ifbstor1/software/miniconda/envs/bowtie2-2.5.1/bin/bowtie2-align-s --wrapper basic-0 -x ../data/bowtie2_DBs/SC2_bowtie2_DB --threads 8 --passthrough -U ../data/merged_pairs/ERR6913183.flash.extendedFrags.fastq.gz,../data/merged_pairs/ERR6913184.flash.extendedFrags.fastq.gz,../data/merged_pairs/ERR6913185.flash.extendedFrags.fastq.gz,../data/merged_pairs/ERR6913186.flash.extendedFrags.fastq.gz,../data/merged_pairs/ERR6913279.flash.extendedFrags.fastq.gz,../data/merged_pairs/ERR6913280.flash.extendedFrags.fastq.gz,../data/merged_pairs/ERR6913281.flash.extendedFrags.fastq.gz,../data/merged_pairs/ERR6913282.flash.extendedFrags.fastq.gz"

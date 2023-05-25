@@ -1,0 +1,20 @@
+Module	Section	Sample Name	Source
+Bowtie 2 / HiSAT2	all_sections	lhohmann_bowtie_merged2SC2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/bowtie/lhohmann_bowtie_merged2SC2.log
+Bowtie 2 / HiSAT2	all_sections	lhohmann_bowtie_merged2PhiX	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/bowtie/lhohmann_bowtie_merged2PhiX.log
+FastQC	all_sections	ERR6913185_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913185_2_fastqc.zip
+FastQC	all_sections	ERR6913184_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913184_2_fastqc.zip
+FastQC	all_sections	ERR6913279_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913279_1_fastqc.zip
+FastQC	all_sections	ERR6913279_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913279_2_fastqc.zip
+FastQC	all_sections	ERR6913281_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913281_1_fastqc.zip
+FastQC	all_sections	ERR6913183_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913183_2_fastqc.zip
+FastQC	all_sections	ERR6913183_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913183_1_fastqc.zip
+FastQC	all_sections	ERR6913282_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913282_1_fastqc.zip
+FastQC	all_sections	ERR6913280_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913280_1_fastqc.zip
+FastQC	all_sections	ERR6913186_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913186_2_fastqc.zip
+FastQC	all_sections	ERR6913281_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913281_2_fastqc.zip
+FastQC	all_sections	ERR6913184_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913184_1_fastqc.zip
+FastQC	all_sections	ERR6913185_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913185_1_fastqc.zip
+FastQC	all_sections	ERR6913282_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913282_2_fastqc.zip
+FastQC	all_sections	ERR6913280_2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913280_2_fastqc.zip
+FastQC	all_sections	ERR6913186_1	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/fastqc/ERR6913186_1_fastqc.zip
+FLASh	all_sections	lhohmann_flash2	/shared/ifbstor1/projects/2314_medbioinfo/lennart/MedBioinfo/analyses/lhohmann_flash2.log
